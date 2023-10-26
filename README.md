@@ -43,5 +43,7 @@ This cheatsheet is built for Red Teamers and Penetration Testers in order to hel
 31. [Dumping Database using Outfile](https://www.hackingarticles.in/dumping-database-using-outfile/)
 32. [IDOR](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
 
+credits hacking articles 
+
 
 
