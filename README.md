@@ -4,14 +4,6 @@
 
 This cheatsheet is tailored for Red Teamers and Penetration Testers, providing insights into various vulnerabilities. Whether you're a beginner aiming to understand the fundamentals or a professional seeking to refine your skills with advanced options, this guide has got you covered.
 
-## Follow Us
-
-🚀 Follow [Hacking Articles](http://www.twitter.com/hackinarticles) on Twitter for more cybersecurity content.
-
-- [![Twitter](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png)](http://www.twitter.com/hackinarticles)
-- [![Discord](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png)](https://discord.com/invite/kyKvXwK4Bk)
-- [![LinkedIn](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png)](https://www.linkedin.com/company/hackingarticles/)
-
 ## Contents
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
@@ -49,5 +41,5 @@ This cheatsheet is tailored for Red Teamers and Penetration Testers, providing i
 
 ## Credits
 
-Credits to [Hacking Articles](https://twitter.com/hackinarticles) for compiling this cheatsheet.
+Credits to [Hacking Articles](https://twitter.com/hackinarticles) for compiling this cheat sheet.
 
