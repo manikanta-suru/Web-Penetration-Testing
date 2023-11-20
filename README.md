@@ -1,14 +1,18 @@
-# Web Penetration Testing
+# Web Penetration Testing Cheatsheet
 
-This cheatsheet is built for Red Teamers and Penetration Testers in order to help them hunt for vulnerabilities. It is designed such that beginners can understand the fundamentals and professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, so we've performed and compiled this list with our experience. Please share it with your connections and send your queries and feedback directly to [Hacking Articles](https://twitter.com/hackinarticles).
+## Overview
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+This cheatsheet is tailored for Red Teamers and Penetration Testers, providing insights into various vulnerabilities. Whether you're a beginner aiming to understand the fundamentals or a professional seeking to refine your skills with advanced options, this guide has got you covered.
+
+## Follow Us
+
+🚀 Follow [Hacking Articles](http://www.twitter.com/hackinarticles) on Twitter for more cybersecurity content.
+
+- [![Twitter](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png)](http://www.twitter.com/hackinarticles)
+- [![Discord](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png)](https://discord.com/invite/kyKvXwK4Bk)
+- [![LinkedIn](https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png)](https://www.linkedin.com/company/hackingarticles/)
+
+## Contents
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
 2. [CSRF](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
@@ -24,7 +28,7 @@ This cheatsheet is built for Red Teamers and Penetration Testers in order to hel
 12. [Multiple Ways to Banner Grabbing](https://www.hackingarticles.in/multiple-ways-to-banner-grabbing/)
 13. [Local File Inclusion (LFI)](https://www.hackingarticles.in/comprehensive-guide-to-local-file-inclusion/)
 14. [Netcat for Pentester](https://www.hackingarticles.in/netcat-for-pentester/)
-15. [WPScan:WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
+15. [WPScan: WordPress Pentesting Framework](https://www.hackingarticles.in/wpscanwordpress-pentesting-framework/)
 16. [WordPress Pentest Lab Setup in Multiple Ways](https://www.hackingarticles.in/wordpress-pentest-lab-setup-in-multiple-ways/)
 17. [Multiple Ways to Crack WordPress login](https://www.hackingarticles.in/multiple-ways-to-crack-wordpress-login/)
 18. [Web Application Pentest Lab Setup on AWS](https://www.hackingarticles.in/web-application-pentest-lab-setup-on-aws/)
@@ -43,7 +47,7 @@ This cheatsheet is built for Red Teamers and Penetration Testers in order to hel
 31. [Dumping Database using Outfile](https://www.hackingarticles.in/dumping-database-using-outfile/)
 32. [IDOR](https://www.hackingarticles.in/beginner-guide-insecure-direct-object-references/)
 
-credits hacking articles 
+## Credits
 
-
+Credits to [Hacking Articles](https://twitter.com/hackinarticles) for compiling this cheatsheet.
 
